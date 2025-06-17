@@ -1,2 +1,9 @@
-# python-calculator
-A simple Python calculator project (Add, Subtract, Multiply, Divide, Modulus)
+# Python Calculator
+
+This is a simple Python project to perform basic calculator operations:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Modulus
